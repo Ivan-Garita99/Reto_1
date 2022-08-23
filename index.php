@@ -1,3 +1,3 @@
 <?php
-    echo 1+2;
+    echo "<h1>Hola Mundo</h1>";
 ?>
